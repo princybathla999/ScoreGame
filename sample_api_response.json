@@ -1,0 +1,30 @@
+[
+  {
+    "team_name": "Toronto Maple Leafs",
+    "wins": 8,
+    "losses": 1,
+    "ties": 1,
+    "position": 1
+  },
+  {
+    "team_name": "Winnipeg Jets",
+    "wins": 5,
+    "losses": 1,
+    "ties": 4,
+    "position": 2
+  },
+  {
+    "team_name": "Montreal Canadiens",
+    "wins": 5,
+    "losses": 1,
+    "ties": 4,
+    "position": 3
+  },
+  {
+    "team_name": "Boston Bruins",
+    "wins": 2,
+    "losses": 7,
+    "ties": 1,
+    "position": 4
+  }
+]
